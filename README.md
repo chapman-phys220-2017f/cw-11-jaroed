@@ -1,8 +1,8 @@
 # PHYS220 CW 11 
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Jarod Penniman and Jared Love**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-11-jaroed.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-11-jareod)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-11-jaroed.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-11-jaroed)
 
 ## Specification
 
@@ -59,7 +59,7 @@ In practice, the 4th-order Runge-Kutta method is the most popular method for sol
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**It was useful for us to have to physically draw out each method in order for us to get a better understanding of what is going on.**
 
 ## Honor Pledge
 
@@ -70,4 +70,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Jarod Penniman and Jared Love**
